@@ -1,8 +1,9 @@
 {
+    "gateway": "172.17.0.1",
     "interfaces": [
         {
-            "ip": "10.0.39.5",
-            "masklen": "24",
+            "ip": "172.17.0.39",
+            "masklen": "16",
             "param": "5",
             "offload": "0xc803",
             "type": "rumpfd"
