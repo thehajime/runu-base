@@ -4,7 +4,7 @@
         {
             "ip": "172.17.0.39",
             "masklen": "16",
-            "param": "5",
+            "name": "tap0",
             "offload": "0xc803",
             "type": "rumpfd"
         }
